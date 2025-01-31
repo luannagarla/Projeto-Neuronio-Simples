@@ -18,3 +18,6 @@ pesos e bias.
 
 **Código** 
 
+*   O arquivo [neuronio.hpp](https://github.com/luannagarla/Projeto-Neuronio-Simples/blob/main/neuronio.hpp) é uma classe abstrata disponibilizada pelo professor para servir como base para a criação de uma classe derivada.
+*   O arquivo [neuronioReLU.hpp](https://github.com/luannagarla/Projeto-Neuronio-Simples/blob/main/NeuronioReLU.hpp) consta a implementação de uma herança para efetuar o cálculo do ReLU utilizando as entradas, pesos e bias.
+*   O arquivo [main.cpp](https://github.com/luannagarla/Projeto-Neuronio-Simples/blob/main/main.cpp) consta a instanciação dos objetos e apresentação dos resultados.
